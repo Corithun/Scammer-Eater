@@ -6,6 +6,7 @@ import time
 import math
 from pynput import keyboard
 import winsound
+pyt.FAILSAFE = False 
 chars = "a b c d e f g i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z".split(" ")
 def getpress():
     with keyboard.Events() as events:
@@ -68,5 +69,6 @@ def BSoD():
 #typeword("your name is sadik") #will type out anything in the input
 #altf4() #pretty self explanatory
 #BSoD() #triggers a Blue Screen of Death
+
 
 
