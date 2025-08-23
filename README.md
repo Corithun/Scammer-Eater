@@ -7,8 +7,8 @@ A collection of python code to screw with scammers, i.e. bursting ear drums, ran
 <h4>POWERSHELL</h4>
   
 ```
-
 pip install PyInstaller
+
 python -m PyInstaller lib_basil.pyw -F --onefile --noconsole
 ```
 
