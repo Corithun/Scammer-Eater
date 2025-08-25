@@ -8,6 +8,6 @@ A collection of python code to screw with scammers, i.e. bursting ear drums, ran
   
 `pip install PyInstaller`
 
-`python -m PyInstaller lib_basil.pyw -F --onefile --noconsole`
+`python -m PyInstaller scammer_yumyum.pyw -F --onefile --noconsole`
 
 </div>
