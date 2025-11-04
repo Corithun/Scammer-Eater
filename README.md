@@ -17,5 +17,5 @@ For Linux:
 
 `python3 -m PyInstaller scammer_yumyum.py -F --onefile --noconsole --icon=icon.png `
 <h4>I am no longer liable</h4>
-Your .exe should now be available in a new folder in the same directory, one named `dist`.
+Your .exe should now be available in a new folder in the same directory, one named 'dist'.
 </div>
