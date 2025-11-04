@@ -1,13 +1,12 @@
 <h1>Scammer-Eater</h1>
 <div align="center"><p>
-A collection of python code to screw with scammers, i.e. bursting ear drums, random key typing, shaking the mouse, and triggering a BSoD (and more)!
+An all-in-one python script to create an extremely annoying RAT, i.e. bursting ear drums, random key typing, shaking the mouse, and triggering a BSoD (and more)!
 </p>
-<p>Modify the script labeled 
+<p>Modify the script labeled scammer-yumyum.pyw and add in your very own token and edit any other necessary information to setup the script before turning it into an .exe </p>
 <h3>Setup pyinstaller to create your exe</h3>
 <h4>POWERSHELL</h4>
   
 `pip install PyInstaller`
 
 `python -m PyInstaller scammer_yumyum.pyw -F --onefile --noconsole --icon="icon.ico" `
-
 </div>
