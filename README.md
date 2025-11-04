@@ -4,14 +4,13 @@ An all-in-one python script to create an extremely annoying RAT, i.e. bursting e
 </p>
 <p>Modify the script labeled scammer-yumyum.pyw and add in your very own token and edit any other necessary information to setup the script before turning it into an .exe </p>
 <h3>Setup pyinstaller to create your exe</h3>
-<h4>POWERSHELL</h4>
-For Windows:
+<h4>POWERSHELL (For Windows)</h4>
   
 `pip install PyInstaller `
 
 `python -m PyInstaller scammer_yumyum.pyw -F --onefile --noconsole --icon="icon.ico"  `
 
-For Linux:
+<h4>TERMINAL (For Linux)</h4>
 
 `python3 -m pip install PyInstaller`
 
