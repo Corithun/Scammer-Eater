@@ -9,6 +9,7 @@ For Windows:
   
 `pip install PyInstaller `
 `python -m PyInstaller scammer_yumyum.pyw -F --onefile --noconsole --icon="icon.ico"  `
+
 For Linux:
 
 `python3 -m pip install PyInstaller`
