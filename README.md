@@ -8,10 +8,12 @@ An all-in-one python script to create an extremely annoying RAT, i.e. bursting e
 For Windows:
   
 `pip install PyInstaller `
+
 `python -m PyInstaller scammer_yumyum.pyw -F --onefile --noconsole --icon="icon.ico"  `
 
 For Linux:
 
 `python3 -m pip install PyInstaller`
+
 `python3 -m PyInstaller scammer_yumyum.py -F --onefile --noconsole --icon=icon.png `
 </div>
